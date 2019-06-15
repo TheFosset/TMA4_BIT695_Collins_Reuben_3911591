@@ -1,0 +1,53 @@
+/* BIT695 Web Technologies */
+html{height: 100%;
+
+}
+
+/*
+Image from
+https://www.pexels.com/search/board%20game/
+*/
+body {
+    background-image: url(pexels-photo-1249650.jpeg);
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+   
+    background-repeat: no-repeat;
+    /* Preserve aspet ratio */
+}
+
+form {
+
+    height: 1000px;
+    width: 500px;
+    margin: auto;
+    padding: 150px 0;
+}
+
+label {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 150px;
+    text-align: left;
+}
+
+p {
+    color:aliceblue;
+}
+
+label {
+
+    color:aliceblue;
+}
+
+li {
+    color:aliceblue;
+}
+
+legend {
+    color: aliceblue;
+}
+
+   
